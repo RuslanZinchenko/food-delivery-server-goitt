@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "username": "Ruslan",
+            "telephone": "063 777 77 77",
+            "email": "ruslan@gmail.com",
+            "age": 25,
+            "id": 1234567891
+        },
+        {
+            "username": "Roman",
+            "telephone": "063 888 88 88",
+            "email": "roman@gmail.com",
+            "age": 30,
+            "id": 1234567892
+        }
+    ]
+}
+
+
